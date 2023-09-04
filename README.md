@@ -8,4 +8,4 @@ The columns in the dataset include
 - Courier status
 - etc
   
-[!](https://github.com/d-owusu/amazon-ecommerce-dashboard/blob/main/screenshot.png)
+![](https://github.com/d-owusu/amazon-ecommerce-dashboard/blob/main/screenshot.png)
